@@ -4,7 +4,7 @@ This project is a character/movie guide for Star Wars, built using the Star Wars
 
 ## Overview
 
-Working in pairs, this project involves creating a responsive character/movie guide using HTML, CSS, and AJAX. The guide fetches data from the Star Wars API, populates an unordered list with characters, and allows users to click on a character to retrieve movie information.
+Working by myself, this project involves creating a responsive character/movie guide using HTML, CSS, and AJAX. The guide fetches data from the Star Wars API, populates an unordered list with characters, and allows users to click on a character to retrieve movie information.
 
 ## Features
 
@@ -18,5 +18,5 @@ Working in pairs, this project involves creating a responsive character/movie gu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/lastName_firstInitial_HW1.git
-   cd lastName_firstInitial_HW1
+   git clone https://github.com/om0404/Patel_Om_HW1.git
+   cd Patel_Om_HW1
