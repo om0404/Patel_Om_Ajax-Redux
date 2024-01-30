@@ -12,7 +12,6 @@ Working by myself, this project involves creating a responsive character/movie g
 - Populates an unordered list with characters.
 - Allows users to click on a character to fetch and display movie details (title, opening crawl, and poster image).
 - Responsive design from mobile to desktop.
-- Additional GreenSock enhancements.
 
 ## Installation
 
