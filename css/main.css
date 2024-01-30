@@ -1,0 +1,36 @@
+h1,h2,p {
+   text-decoration: none;
+   font-style: normal;
+   color: rgb(24, 49, 71);
+}
+.container {
+    display: flex; 
+  }
+  
+  #character-list {
+    text-align: center;
+    padding-top: 50px;
+    
+  }
+  #character-list ul{
+    color: aliceblue;
+    text-decoration: none;
+  }
+  
+  #movie-details {
+    padding-top: 50px; 
+    text-align: center;
+  }
+  #movie-details img{
+    padding-top: 50px; 
+    
+  }
+  body{
+    background: #ffffff;
+  }
+
+  #loading-icon{
+    text-align: center;
+    color: rgb(3, 22, 38);
+
+  }
